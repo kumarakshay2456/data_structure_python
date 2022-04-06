@@ -1,2 +1,2 @@
-# data_structure_python
+# Data Structure
 Data Structure Using Python
